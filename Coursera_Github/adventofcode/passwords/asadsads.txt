@@ -1,0 +1,14 @@
+min = 0
+max = 0
+policy = ''
+string = ''
+count = 0
+por cada linea hacer 
+	string es todo
+	min = primer caracter
+	max = tercer caracter
+	policy = 5to caracter
+	string = string menos 8 caracteres
+	por cada caracter en string hacer
+		si caracter = policy
+			count += 1
